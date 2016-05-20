@@ -1,0 +1,23 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main() {
+
+  double param, result;
+  //param = 8;
+  result = log(3)/log(81);
+  cout << result <<endl;
+
+
+
+
+
+
+
+
+
+return 0;
+
+}
